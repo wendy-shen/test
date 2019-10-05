@@ -53,3 +53,12 @@ function OnLoad(){
 ![Cat](http://provectapet.com/wp-content/uploads/2017/02/provecta-for-pets-gray-cat_opt.jpg)
 
 [Facebook](http://www.facebook.com)
+
+**粗體**
+_斜體_
+~~刪除線~~
+
+>Quote one sentences
+>>Quote two sentences
+>>Quote two sentences
+>>>Quote three sentences
